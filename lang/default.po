@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: edd-price-variation-images\n"
+"POT-Creation-Date: 2015-03-25 21:28-0600\n"
+"PO-Revision-Date: 2015-03-25 21:28-0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: edd-price-variation-images.php:37
+msgid "Screenshots"
+msgstr ""
+
+#: edd-price-variation-images.php:96
+#, php-format
+msgid "%1$s Screenshots"
+msgstr ""
+
+#: edd-price-variation-images.php:127
+msgid "Thumbnail Size"
+msgstr ""
+
+#: edd-price-variation-images.php:129
+msgid "Screenshot Thumbnail Width"
+msgstr ""
+
+#: edd-price-variation-images.php:131
+msgid "Screenshot Thumbnail Height"
+msgstr ""
+
+#: edd-price-variation-images.php:133
+msgid "HTML Setup"
+msgstr ""
+
+#: edd-price-variation-images.php:134
+msgid "HTML before screenshots"
+msgstr ""
+
+#: edd-price-variation-images.php:136
+msgid "HTML after screenshots"
+msgstr ""
+
+#: edd-price-variation-images.php:143 edd-price-variation-images.php:162
+msgid "Screenshot"
+msgstr ""
+
+#: edd-price-variation-images.php:147
+msgid "Primary Caption"
+msgstr ""
+
+#: edd-price-variation-images.php:150 edd-price-variation-images.php:166
+msgid "Secondary Caption"
+msgstr ""
+
+#: edd-price-variation-images.php:164
+msgid "Caption"
+msgstr ""
